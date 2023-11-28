@@ -7,7 +7,7 @@ pipeline {
         
     stage('Cloning Git') {
       steps {
-        git 'https://github.com/Kvcc18/ordinarioCloud'
+        git 'https://github.com/Kvcc18/HelloWorld'
       }
     }
         
